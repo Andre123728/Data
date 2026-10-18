@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "type": "list",
+      "title": "Выбор сайта",
+      "items": [
+        {
+          "type": "link",
+          "title": "WALS",
+          "link": "https://wals09.github.io"
+        },
+        {
+          "type": "link",
+          "title": "Reelo",
+          "link": "https://reelo.ru/msx/menu.json"
+        }
+      ]
+    }
+  ]
+}
